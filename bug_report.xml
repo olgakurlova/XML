@@ -1,1 +1,18 @@
-
+<Bug_report>
+  <MainAttrib1>ID</MainAttrib1>
+  <AdditionalAttrib1>Defect Reported Date</AdditionalAttrib1>
+  <AdditionalAttrib2>Name of Project</AdditionalAttrib2>
+  <MainAttrib2>Summary Title</MainAttrib2>
+  <MainAttrib3>Steps to reproduce
+  <stepNumber1>step1</stepNumber1>
+  <stepNumber2>step2</stepNumber2>
+  <stepNumber3>step3</stepNumber3>
+    </MainAttrib3>
+  <MainAttrib4>Expected result</MainAttrib4>
+  <MainAttrib5>Actual result</MainAttrib5>
+  <MainAttrib6>Priority</MainAttrib6>
+  <MainAttrib7>Severity</MainAttrib7>
+  <MainAttrib8>Status</MainAttrib8>
+  <AdditionalAttrib3>Environment</AdditionalAttrib3>
+  <AdditionalAttrib4>Additional info</AdditionalAttrib4>
+</Bug_report>
