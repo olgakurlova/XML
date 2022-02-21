@@ -1,0 +1,22 @@
+<Skills>
+	<SkillsName1>BasicTheory</SkillsName1>
+	<SkillsName2>client-server architecture</SkillsName2>
+	<SkillsName3>Methods of requests to the server</SkillsName3>
+	<SkillsName4>Server responses</SkillsName4>
+	<SkillsName5>Structures of requests and responses</SkillsName5>
+	<SkillsName6>JSON XML-their structure</SkillsName6>
+	<SkillsName7>API testing</SkillsName7>
+	<SkillsName8>Removal and reading of logs</SkillsName8>
+	<SkillsName9>Postman Fidler</SkillsName9>
+	<SkillsName10>VPN</SkillsName10>
+	<SkillsName11>Dev Tools of web browsers-Google Chrome, FireFox</SkillsName11>
+	<SkillsName12>Mobile testing</SkillsName12>
+	<SkillsName13>Feature iOS, Android, guidelines</SkillsName13>
+	<SkillsName14>Building iOS applications on XCode</SkillsName14>
+	<SkillsName15>Building Android applications on Android Studio</SkillsName15>
+	<SkillsName16>Interception of mobile traffic sniffing via Charles</SkillsName16>
+	<SkillsName17>Proxy settings on iOS and Android</SkillsName17>
+	<SkillsName18>Command line terminal Linux</SkillsName18>
+	<SkillsName19>Simple bash scripting, automation of routine tasks on the server</SkillsName19>
+	<SkillsName20>Access to remote servers</SkillsName20>	
+	</Skills>
